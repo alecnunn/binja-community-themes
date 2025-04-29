@@ -244,6 +244,14 @@ from [tonylambiris](https://github.com/tonylambiris)
 ### Base16
 For more, check out these [Base16 themes](https://github.com/evanrichter/base16-binary-ninja) from [evanrichter](https://github.com/evanrichter)
 
+
+### Ghibli
+from [Leland](https://github.com/loganleland)
+
+![ghibli1](previews/ghibli1.png)
+![ghibli2](previews/ghibli2.png)
+
+
 # Binary Ninja Default Themes
 
 Here are the themes that come default on Binary Ninja.
@@ -311,11 +319,3 @@ Added as an official plugin but still available separately.
 
 ![Summer1](previews/summer1.png)
 ![Summer2](previews/summer2.png)
-
-
-### Ghibli
-from [Leland](https://github.com/loganleland)
-
-![ghibli1](previews/ghibli1.png)
-![ghibli2](previews/ghibli2.png)
-
